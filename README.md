@@ -5,7 +5,6 @@ dataset to be downloaded :
 
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 
-
 literature reading:
 
 what is spectogram ??
@@ -15,6 +14,7 @@ References for implementing a model:
 
 https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7
 https://www.kaggle.com/davids1992/speech-representation-and-data-exploration
+https://web.archive.org/web/20140721050413/http://www.heatonresearch.com/node/707
 
 TODO in the order of priority :
 
